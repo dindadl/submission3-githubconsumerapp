@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Favorite User</string>
+    <string name="search">search…</string>
+    <string name="change_language_settings">change languange</string>
+    <string name="username">username</string>
+    <string name="location">Location</string>
+    <string name="_100_repository">100</string>
+    <string name="repository">Repository</string>
+    <string name="icon_loc">icon_loc</string>
+    <string name="company">company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="title_activity_notif">NotifActivity</string>
+
+    <string name="notif_off">Daily Notification OFF</string>
+    <string name="notif_on">Daily Notification ON</string>
+    <string name="notif_set">Notification Settings</string>
+    <string name="set_daily_notif">Set Daily Notification</string>
+    <string name="msg_notif">Lets Check Out User to be Your Favorite</string>
+</resources>
